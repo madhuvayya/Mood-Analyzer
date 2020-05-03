@@ -1,4 +1,4 @@
-package com.moodanalyzer;
+package com.moodanalyzersimulator;
 
 public class MoodAnalyzer {
 
