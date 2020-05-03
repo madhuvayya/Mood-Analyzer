@@ -1,9 +1,4 @@
-.gradle
-build.gradle
-gradlew
-settings.gradle
 .idea
-gradle
-gradlew.bat
-build
-gradle/wrapper
+*.iws
+*.iml
+*.ipr
